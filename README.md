@@ -1,1 +1,1 @@
-## Data for Postman class Repository
+## Data for Postman Class Repository
