@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Blog Post",
+      "author": "Adam Eden"
+    },
+    {
+      "id": 2,
+      "title": "Leaving the Garden",
+      "author": "Adam Eden"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "It's a little weak",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "Hey dude, wanna apple?",
+      "postId": 1
+    },
+    {
+      "id": 3,
+      "body": "Don't forget to write",
+      "postId": 2
+    }
+  ],
+  "profile": {
+    "name": "Human"
+  }
+}
